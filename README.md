@@ -9,7 +9,7 @@
 <div style="display: inline_block" padding="15px" ><br>
 <img  align="center" height="50" width="50" alt="Sara-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 <img  align="center" height="50" width="50" alt="Sara-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-<img  align="center" height="35" width="45" alt="Sara-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">>
+<img  align="center" height="35" width="45" alt="Sara-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img  align="center" height="50" width="50" alt="Sara-PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img  align="center" height="50" width="50" alt="Sara-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <br>
