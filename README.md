@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/sara-castro-544630205/"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://github.com/Saraemilyy"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
 
-![Snake animation](https://github.com/seu-usuário-aqui/Saraemilyy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Saraemilyy/Saraemilyy/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
