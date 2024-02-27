@@ -13,8 +13,6 @@
 <img  align="center" height="35" width="45" alt="Sara-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img  align="center" height="50" width="50" alt="Sara-PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img  align="center" height="50" width="50" alt="Sara-MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<br>
-<img  align="right" height="150" width="150" alt="Sara-Icon" src="https://pbs.twimg.com/media/FYs2jm6XwAAox2y?format=png&name=small">
 </div>
 
 <div>
