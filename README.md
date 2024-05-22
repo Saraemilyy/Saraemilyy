@@ -23,4 +23,8 @@
 
 </div>
 
-
+<div align="center">
+<br><p align="centre"><b>Você é meu visitante nº</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Saraemilyy}/count.svg" /></p> 
+<br>
+</div>
