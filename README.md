@@ -1,11 +1,33 @@
 <h1> Oii, eu sou a Sara, seja bem vindo ao meu github :)! </h1>
 
-<div> 
-<a href="https://github.com/Saraemilyy">
-<img width="49%" height="180cm" src="https://github-readme-stats.vercel.app/api?username=Saraemilyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img width="49%" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraemilyy&layout-compact&langs_count=16&theme=dark"/>
-
-</div>
+### ⚙️ GitHub Analytics
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Saraemilyy&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraemilyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Saraemilyy&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+---
 
 <div style="display: inline_block" padding="15px" ><br>
 <img  align="center" alt="Sara-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
