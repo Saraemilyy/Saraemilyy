@@ -27,9 +27,12 @@
     </td>
   </tr>
 </table>
----
 
-<div style="display: inline_block" padding="15px" ><br>
+<br>
+
+## 🚀 Minhas Skills
+
+<div style="display: inline_block" padding="15px">
 <img  align="center" alt="Sara-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img  align="center" alt="Sara-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  align="center" alt="Sara-NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -41,8 +44,12 @@
 <img  align="center" alt="Sara-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<div>
 <br><br>
+
+<div>
+  
+## 🪄 Onde me encontrar: 
+
 <a href="https://www.youtube.com/@_ig.limaa_/"> <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/sara-castro-544630205/"> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://github.com/Saraemilyy"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
