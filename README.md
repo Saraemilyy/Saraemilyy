@@ -1,34 +1,6 @@
-<h1> Oii, eu sou a Sara, seja bem vindo ao meu github :)! </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16537E&height=120&section=header"/>
 
-### ⚙️ GitHub Analytics
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Saraemilyy&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraemilyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Saraemilyy&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7C7E7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sara+Castro;Eu+tenho+19+anos;Eu+sou+de+Fortaleza,+CE;Eu+estudo+ADS+na+UNOPAR;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ## 🚀 Minhas Skills
 
