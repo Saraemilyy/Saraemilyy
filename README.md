@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16537E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7C7E7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sara+Castro;Eu+tenho+19+anos;Eu+sou+de+Fortaleza,+CE;Eu+estudo+ADS+na+UNOPAR;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7C7E7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sara+Castro;Eu+tenho+20+anos;Eu+sou+de+Fortaleza,+CE;Eu+estudo+ADS+na+UNOPAR;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ## 🚀 Minhas Skills
 
