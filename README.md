@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A7C7E7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Sara+Castro;Eu+tenho+21+anos;Eu+sou+de+Fortaleza,+CE;Desenvolvedora+Full+-+Stack;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
+  <h3>🛠️ | Tecnologias e Ferramentas</h3>
   
   <div style="display: inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -21,18 +21,19 @@
 </div>
 
 <br>
-## 📊 Estatísticas
+
 
 <div align="center">
+
+  <h3>📊 | Estatísticas</h3>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saraemilyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saraemilyy&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <br>
 
-## 🪄 Onde me encontrar
-
 <div align="center">
+  <h3>👩‍💻 | Onde me Encontrar</h3>
   <a href="https://www.linkedin.com/in/sara-castro-544630205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin: 5px;">
   </a>
@@ -49,7 +50,7 @@
 ---
 
 <div align="center">
-  <p><b>Você é meu visitante nº</b></p>
+  <h3>🥳 | Você é meu visitante nº</h3>
   <img src="https://komarev.com/ghpvc/?username=Saraemilyy&color=16537E&style=flat-square" alt="Contador de Visitas" />
   <br><br>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=16537E&height=120&section=footer"/>
