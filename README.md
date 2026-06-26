@@ -40,9 +40,6 @@
   <a href="https://github.com/Saraemilyy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" style="margin: 5px;">
   </a>
-  <a href="https://www.youtube.com/@_ig.limaa_/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="margin: 5px;">
-  </a>
 </div>
 
 <br><br>
