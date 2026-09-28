@@ -26,8 +26,8 @@
 <div align="center">
 
   <h3>📊 | Estatísticas</h3>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saraemilyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saraemilyy&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Saraemilyy&theme=dark_github" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saraemilyy&langs_count=4&theme=dark_github" />
 </div>
 
 <br>
